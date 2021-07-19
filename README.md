@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @JJLindsey
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m Jennifer Linsdsey
+
+![JGithub](https://user-images.githubusercontent.com/12735296/126218740-e836dd4d-b97c-4893-b9c4-7096bfe701a8.png)
+I am studying to become a web developer and based in Irvine, CA. Check out my most recent work!
 
 <!---
 JJLindsey/JJLindsey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
