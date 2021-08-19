@@ -3,6 +3,8 @@
 
 I am studying to become a web developer and based in Irvine, CA. Check out my most recent work!
 
+You can reach me at jlindsey010@gmail.com
+
 ![gitHeader](https://user-images.githubusercontent.com/12735296/128567503-57b58038-2dd6-4187-a931-788913331464.png)
 
 <!---
