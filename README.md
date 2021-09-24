@@ -1,7 +1,7 @@
 
 # Hi, I’m Jennifer Linsdsey
 
-I am studying Full Stack web Development with a focus on Front End. I am based in Irvine, CA. Check out my most recent work!
+I am studying Full Stack Web Developer with a focus on the Front End. I am based in Irvine, CA. Check out my most recent work!
 
 You can reach me at jlindsey010@gmail.com
 
