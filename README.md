@@ -3,6 +3,9 @@
 
 I am a Full Stack Web Developer with a focus on the Front End. I am based in Irvine, CA. Check out my most recent work!
 
+
+https://jjlindsey.github.io/react-portfolio/
+
 You can reach me at jlindsey010@gmail.com
 
 
