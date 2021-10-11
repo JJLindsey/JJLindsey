@@ -10,17 +10,14 @@
 </a>  
   
 
-
-
 ### Glad to see you here!  
 I’m a full-stack developer who has a passion for design. I am based in Irvine, CA. Please check out my most recent work!
 https://jjlindsey.github.io/react-portfolio/
 
-You can reach me at jlindsey010@gmail.com  
+Send me a message at jlindsey010@gmail.com  
   
 
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
