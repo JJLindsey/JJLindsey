@@ -7,14 +7,13 @@
 </a>
 <a href="https://linkedin.com/in/jennifer-lindsey010" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+</a>
 
-### Glad to see you here!  
+### Hi!  
 I’m a full-stack developer who has a passion for design. I am based in Irvine, CA. Please check out my most recent work!
 https://jjlindsey.github.io/react-portfolio/
 
-Send me a message at jlindsey010@gmail.com  
+Get in touch: jlindsey010@gmail.com  
   
 
 <br/>  
