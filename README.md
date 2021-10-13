@@ -9,40 +9,26 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-### Hi!  
 I’m a full-stack developer who has a passion for design. I am based in Irvine, CA. Please check out my most recent work!
 https://jjlindsey.github.io/react-portfolio/
 
-Get in touch: jlindsey010@gmail.com  
-  
-
-<br/>  
+### Get in touch:
+[<img src="https://user-images.githubusercontent.com/12735296/137177007-bd18ae98-e465-4613-97cb-e0e964901389.png" height =40 />](mailto:jlindsey010@gmail.com)
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 -   🖥️ I’m currently working on several projects to add to my portfolio  
-  
 
 - 📖  I’m currently learning TypeScript & SASS  
   
-
 - ⚡ Fun fact: I am a certified yoga instructor🧘‍♀️ and amateur photographer 📷  
-
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
+Languages and Tools  
+  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -63,6 +49,7 @@ Get in touch: jlindsey010@gmail.com
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" />  
 </div>  
 
+</td></tr></table>  
 <br/>  
 
 
@@ -83,9 +70,7 @@ Get in touch: jlindsey010@gmail.com
 
 <br/>  
 
-  
 
-<br/>  
 
 
 <br />
