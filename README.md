@@ -1,10 +1,6 @@
 
 ## Hi, I'm Jennifer Lindsey!  
-  
-
-<a href="https://linkedin.com/in/jennifer-lindsey010" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+ 
 
 I’m a full-stack developer who has a passion for design. I am based in Irvine, CA. Please check out my most recent work!
 https://jjlindsey.github.io/react-portfolio/
@@ -17,9 +13,9 @@ https://jjlindsey.github.io/react-portfolio/
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
--   🖥️ I’m currently working on several projects to add to my portfolio  
+-   🖥️ I’m currently working on a few projects to add to my portfolio  
 
-- 📖  I’m currently learning TypeScript & SASS  
+- 📖  I’m currently learning GraphQL & SASS  
   
 - ⚡ Fun fact: I am a certified yoga instructor🧘‍♀️ and amateur photographer 📷  
 
