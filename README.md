@@ -11,6 +11,8 @@ https://jjlindsey.github.io/react-portfolio/
 
 ### Get in touch:
 [<img src="https://user-images.githubusercontent.com/12735296/137177007-bd18ae98-e465-4613-97cb-e0e964901389.png" height =40 />](mailto:jlindsey010@gmail.com)
+[<img src="https://user-images.githubusercontent.com/12735296/138142209-b7241204-2b57-4d0b-9b72-6015b0e3d1a8.png" height = 40 />](https://linkedin.com/in/jennifer-lindsey010)
+
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
