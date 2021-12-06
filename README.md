@@ -13,9 +13,9 @@ https://jjlindsey.github.io/simple-portfolio/
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
--   🖥️ I’m currently working on a few projects to add to my portfolio  
+- 🖥️ I’m working on a music producer's website using React, Wavesurfer.js
 
-- 📖  I’m currently learning GraphQL & SASS  
+- 📖  I’m currently learning SASS  
   
 - ⚡ Fun fact: I am a certified yoga instructor🧘‍♀️ and amateur photographer 📷  
 
