@@ -15,7 +15,7 @@ https://jjlindsey.github.io/simple-portfolio/
 
 - 🖥️ I’m working on a music producer's website using React, Wavesurfer.js
 
-- 📖  I’m currently learning SASS  
+- 📖  I’m currently learning animeJS & working through the CS50 course 
   
 - ⚡ Fun fact: I am a certified yoga instructor🧘‍♀️ and amateur photographer 📷  
 
