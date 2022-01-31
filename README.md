@@ -2,8 +2,9 @@
 ## Hi, I'm Jennifer Lindsey!  
  
 
-I’m a full-stack developer who has a passion for design. I am based in Irvine, CA. Please check out my most recent work!
-https://jjlindsey.github.io/simple-portfolio/
+I’m a full-stack developer who has a passion for design. I am based in Irvine, CA. 
+<br>Please check out my most recent work!
+[Portfolio](https://jjlindsey.github.io/simple-portfolio/)
 
 ### Get in touch:
 [<img src="https://user-images.githubusercontent.com/12735296/137177007-bd18ae98-e465-4613-97cb-e0e964901389.png" height =40 />](mailto:jlindsey010@gmail.com)
