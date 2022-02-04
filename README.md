@@ -16,7 +16,7 @@ I’m a full-stack developer who has a passion for design. I am based in Irvine,
 
 - 🖥️ I’m working on a music producer's website using React, Wavesurfer.js
 
-- 📖  I’m currently learning animeJS & working through the CS50 course 
+- 📖  I’m currently working through the CS50 course, started AWS Cloud Essentials, and playing around with C# (first 5 weeks of CS50 in C).
   
 - ⚡ Fun fact: I am a certified yoga instructor🧘‍♀️ and amateur photographer 📷  
 
