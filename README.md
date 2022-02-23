@@ -14,9 +14,9 @@ I’m a full-stack developer who has a passion for design. I am based in Irvine,
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🖥️ I’m working on a music producer's website using React, Wavesurfer.js
+- 🖥️ I’m working through <em>Eloquent Javascript</em>
 
-- 📖  I’m currently working through the CS50 course, and playing around with C#.
+- 📖  I’m taking HarvardX CS50 course, and playing around with C#.
   
 - ⚡ Fun fact: I am a certified yoga instructor🧘‍♀️ and amateur photographer 📷  
 
