@@ -16,7 +16,7 @@ I’m a full-stack developer who has a passion for design. I am based in Irvine,
 
 -  📖 I’m working through <em>Eloquent Javascript</em>
 
--  🖥️ I’m taking HarvardX CS50 course, and playing around with C#.
+-  🖥️ I’m taking HarvardX CS50 course, and started Storybook tutorials.
   
 - ⚡ Fun fact: I am a certified yoga instructor🧘‍♀️ and amateur photographer 📷  
 
