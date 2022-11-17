@@ -2,7 +2,7 @@
 ## Hi, I'm Jennifer Lindsey!  
  
 
-I’m a full-stack developer who has a passion for design. I am based in Irvine, CA. 
+I’m a full-stack developer who has a passion for problem-solving and design. I am based in Irvine, CA. 
 <br>Please check out my most recent work!
 [Portfolio](https://jjlindsey.github.io/simple-portfolio/)
 
