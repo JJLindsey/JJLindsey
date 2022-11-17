@@ -14,9 +14,9 @@ I’m a full-stack developer who has a passion for design. I am based in Irvine,
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
- -  📖 I’m working through <em>Eloquent Javascript</em> & <em>CODE Complete</em>.
+ -  📖 I’m currently reading <em>Design Patterns: Building Extensible & Maintainable OO Software</em> and <em>CODE Complete</em>.
 
--  🖥️ I’m taking HarvardX CS50 course, and working on Material UI tutorials.
+-  🖥️ I’m taking HarvardX CS50 course, and learning c#.
   
 - ⚡ Fun fact: I am a certified yoga instructor🧘‍♀️ and amateur photographer 📷  
 
