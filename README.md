@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jennifer</h1>
 <h3 align="center">A passionate frontend engineer who loves design</h3>
 
-- 🔭 I’m currently working on **d3 project**
+- 🔭 I’m currently learning  **Three.js**
 
 - 🌱 I’m currently reading **Design Patterns: Building Extensible & Maintainable OO Software**
 
