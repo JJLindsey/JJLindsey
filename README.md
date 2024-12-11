@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently reading **Design Patterns: Building Extensible & Maintainable OO Software**
 
--  🎨 <a href="https://jjlindsey.github.io/jl-portfolio/" target="_blank">Portflio</a>
+-  🎨 <a href="https://jjlindsey.github.io/jl-portfolio/" target="_blank" rel="noopener noreferrer">Portflio</a>
 
 - ⚡ Fun fact **I am a certified Yoga Instructor and have an MA in Art History**
 
