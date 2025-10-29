@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jennifer</h1>
 <h3 align="center">Frontend Developer who approaches code like a photographer approaches a shot</h3>
 
-<p align="center">My art history background proves surprisingly useful in programming—turns out analytical frameworks for evaluating visual coherence work just as well on component libraries as they do on Renaissance paintings.</p>
+<p align="center">My art history background proves surprisingly useful in programming. Turns out analytical frameworks for evaluating visual coherence work just as well on component libraries as they do on Renaissance paintings.</p>
 
 ---
 
