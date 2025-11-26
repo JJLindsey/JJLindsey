@@ -6,7 +6,7 @@
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** React, TypeScript, JavaScript, HTML/CSS, Bootstrap, MUI  
+**Frontend:** React, Vue 3, JavaScript, HTML5, CSS, Bootstrap, MUI  
 **Backend:** Node.js, C#, PostgreSQL, GraphQL  
 **Design:** Figma, Component Libraries, WCAG Accessibility, Visual Design Principles  
 **Tools:** Git, D3.js, Photoshop, Illustrator  
