@@ -13,9 +13,8 @@ Currently exploring AI systems, computer vision, and multimodal interfaces throu
 ## 🛠️ Tech Stack
 **Frontend:** React, Vue 3, JavaScript, HTML5, CSS, Component Architecture, Bootstrap, MUI  
 **Backend:** Node.js, C#, PostgreSQL, GraphQL  
-**Design:** Figma, Component Libraries, WCAG Accessibility, Visual Design Principles
-**AI & Data Visualization (emerging):**  
-D3.js, Embeddings (learning), Multimodal Interfaces, Interactive Data Systems
+**Design:** Figma, Component Libraries, WCAG Accessibility, Visual Design Principles  
+**AI & Data Visualization(learning):** D3.js, Multimodal Interfaces, Interactive Systems  
 **Tools:** Git, Photoshop, Illustrator, API Testing & Integration 
 
 ## 🎯 Current Focus
