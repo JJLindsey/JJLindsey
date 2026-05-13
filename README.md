@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jennifer</h1>
-<h3 align="center">Frontend Developer who approaches code like a photographer approaches a shot</h3>
 
 <p align="center"Frontend Engineer building interactive, AI-enabled web applications.
 
