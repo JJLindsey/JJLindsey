@@ -1,18 +1,26 @@
 <h1 align="center">Hi 👋, I'm Jennifer</h1>
 <h3 align="center">Frontend Developer who approaches code like a photographer approaches a shot</h3>
 
-<p align="center">My art history background proves surprisingly useful in programming. Turns out analytical frameworks for evaluating visual coherence work just as well on component libraries as they do on Renaissance paintings.</p>
+<p align="center"Frontend Engineer building interactive, AI-enabled web applications.
+
+I work primarily with React, Vue, and TypeScript, focusing on scalable UI systems, performance, and thoughtful user experience design.
+
+With a background in art history, I bring a visual and interpretive lens to interface design—thinking in terms of composition, hierarchy, and narrative flow.
+
+Currently exploring AI systems, computer vision, and multimodal interfaces through applied projects and graduate study in AI.</p>
 
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** React, Vue 3, JavaScript, HTML5, CSS, Bootstrap, MUI  
+**Frontend:** React, Vue 3, JavaScript, HTML5, CSS, Component Architecture, Bootstrap, MUI  
 **Backend:** Node.js, C#, PostgreSQL, GraphQL  
-**Design:** Figma, Component Libraries, WCAG Accessibility, Visual Design Principles  
-**Tools:** Git, D3.js, Photoshop, Illustrator  
+**Design:** Figma, Component Libraries, WCAG Accessibility, Visual Design Principles
+**AI & Data Visualization (emerging):**  
+D3.js, Embeddings (learning), Multimodal Interfaces, Interactive Data Systems
+**Tools:** Git, Photoshop, Illustrator, API Testing & Integration 
 
 ## 🎯 Current Focus
-- 📚 **Learning:** Frontend Masters Design Systems, Python, Advanced UX/UI
+- 📚 **Learning:** ML, Python, Advanced UX/UI
 - 🎨 **Building:** Accessible, performant web applications with scalable architecture
 - 📖 **Reading:** *Design Patterns: Building Extensible & Maintainable OO Software*
 
