@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jennifer</h1>
 
-<p align="center"Frontend Engineer building interactive, AI-enabled web applications.
-
-I work primarily with React, Vue, and TypeScript, focusing on scalable UI systems, performance, and thoughtful user experience design.
+<p 
+  
+Engineer building interactive, AI-enabled web applications.
 
 I build interactive systems that start with a question worth asking, then architect the frontend carefully enough that the answer comes through clearly.
 
