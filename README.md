@@ -4,6 +4,8 @@
 
 I work primarily with React, Vue, and TypeScript, focusing on scalable UI systems, performance, and thoughtful user experience design.
 
+I build interactive systems that start with a question worth asking, then architect the frontend carefully enough that the answer comes through clearly.
+
 With a background in art history, I bring a visual and interpretive lens to interface design—thinking in terms of composition, hierarchy, and narrative flow.
 
 Currently exploring AI systems, computer vision, and multimodal interfaces through applied projects and graduate study in AI.</p>
@@ -14,18 +16,26 @@ Currently exploring AI systems, computer vision, and multimodal interfaces throu
 **Frontend:** React, TypeScript, Vue 3, JavaScript, HTML5, CSS, Component Architecture, Bootstrap, MUI  
 **Backend:** Node.js, C#, PostgreSQL, GraphQL  
 **Design:** Figma, Component Libraries, WCAG Accessibility, Visual Design Principles  
-**AI & Data Visualization(learning):** D3.js, Multimodal Interfaces, Interactive Systems  
-**Tools:** Git, Photoshop, Illustrator, API Testing & Integration 
+**Data Visualization:** D3.js, Multimodal Interfaces, OpenSeadragon  
+**AI &ML:** Python, Multimodal interfaces, MS coursework (in progress)  
+**Tools:** Git, Photoshop, Illustrator, API Testing & Integration
 
 ## 🎯 Current Focus
-- 📚 **Learning:** ML, Python, Advanced UX/UI
+- 📚 **Learning:** ML, Python, MS in Artificial Intelligence pathway coursework
 - 🎨 **Building:** Accessible, performant web applications with scalable architecture
 - 📖 **Reading:** *Design Patterns: Building Extensible & Maintainable OO Software*
+
+## Pinned Project - each started with a question:
+- Exhibition Engine: How do you translate the physical weight of Old Masters into a digital environment?
+- Visual Investigation Lab: How can an interface guide users from fragmented perception to structured visual reasoning?
+- Van Gogh Impact Dashboard: How do you quantify the Posthumous Popularity Paradox?
+- NEO Space Dashboard: How can I render Near Earth Objects from NASA API? orbital visualization with requestAnimationFrame
 
 ## 🌟 Projects
 - 🎨 **[Portfolio](https://jjlindsey.github.io/jl-portfolio/)** - Showcasing my work at the intersection of design and development
 
-## ⚡ Fun Facts
+## ⚡ A Few Other Things
+- MA from the Courtauld Institute of Art, University of London
 - 🧘‍♀️ Certified Yoga Instructor with an MA in Art History
 - 📷 Photography enthusiast who finds composition principles apply everywhere
 - 🎨 Former museum educator/art historian turned software engineer
